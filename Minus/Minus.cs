@@ -1,4 +1,4 @@
-﻿internal class Boolean
+﻿internal class Minus
 {
     static void Main(string[] args)
     {
